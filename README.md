@@ -7,7 +7,8 @@ This project is a clone of the classic 80s game Breakout, built using Python's T
 - Python 3.x
 - Turtle graphics library
 
-3. Run the game:
+Run the game:
+   In /src
    ```
    python main.py
    ```
